@@ -230,10 +230,9 @@ ca-certificates-base-20200720-20.cm2.noarch.rpm
 ca-certificates-20200720-20.cm2.noarch.rpm
 dwz-0.13-4.cm2.x86_64.rpm
 unzip-6.0-19.cm2.x86_64.rpm
-python3-3.7.10-3.cm2.x86_64.rpm
-python3-devel-3.7.10-3.cm2.x86_64.rpm
-python3-libs-3.7.10-3.cm2.x86_64.rpm
-python3-setuptools-3.7.10-3.cm2.noarch.rpm
-python3-xml-3.7.10-3.cm2.x86_64.rpm
+python3-3.9.9-1.cm2.x86_64.rpm
+python3-devel-3.9.9-1.cm2.x86_64.rpm
+python3-libs-3.9.9-1.cm2.x86_64.rpm
+python3-setuptools-3.9.9-1.cm2.noarch.rpm
 which-2.21-7.cm2.x86_64.rpm
 libselinux-3.2-1.cm2.x86_64.rpm
